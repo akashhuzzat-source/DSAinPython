@@ -1,5 +1,14 @@
 # DSAinPython
-Python solutions to Striver A2Z DSA Sheet and LeetCode problems, organized topic-wise for interview preparation and skill development.
+This repository contains my solutions to Data Structures and Algorithms problems from:
+<br>
+- Striver A2Z DSA Sheet
+<br>
+- LeetCode,
+<br>
+organized topic-wise To strengthen problem-solving skills and prepare for software engineering and data science internships.
+<br>
 Topics covered : 
-          * Arrays
+<br>
+       * Arrays
+<br>
 Language : Python
